@@ -82,8 +82,35 @@ Please edit this README.md file with your answers to the worksheet questions.
 ## Question 3
 
 ### a
+|   A   |   B   |   A OR B   |   NOT (A OR B)  |
+| ----- | ----- | ---------- | --------------- |
+| False | False |   False    |       True      |
+| False | True  |   True     |       False     |
+| True  | False |   True     |       False     |
+| True  | True  |   True     |       False     |
+
+|   A   |   B   |   NOT A AND NOT B  |
+| ----- | ----- | ------------------ |
+| False | False |        True        |
+| False | True  |        False       |
+| True  | False |        False       |
+| True  | True  |        False       |
+
 
 ### b
+|   A   |   B   |   A AND B  |   NOT (A AND B) |
+| ----- | ----- | ---------- | --------------- |
+| False | False |   False    |      True       |
+| False | True  |   False    |      True       |
+| True  | False |   False    |      True       |
+| True  | True  |   True     |      False      |     
+
+|   A   |   B   |   NOT A OR NOT B  |
+| ----- | ----- | ----------------- |
+| False | False |        True       |
+| False | True  |        True       |
+| True  | False |        True       |
+| True  | True  |        False      |
 
 ### c
 
