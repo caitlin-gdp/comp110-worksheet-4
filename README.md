@@ -44,24 +44,24 @@ Please edit this README.md file with your answers to the worksheet questions.
 
 
 ### d
-|   A   |   B   |   C   |   D   |  B OR NOT C   |   NOT A AND D  | A AND NOT (B OR NOT C) AND (NOT A AND D) | 
-| ----- | ----- | ----- | ----- | ------------- | -------------- | ---------------------------------------- |
-| False | False | False | False |      False    |      False     |                  |
-| False | False | False | True  |      False    |      True      |                  |
-| False | False | True  | False |      True     |      False     |                  |
-| False | False | True  | True  |      True     |      True      |                   |
-| False | True  | False | False |      True     |      False     |                   |
-| False | True  | False | True  |      True     |       |                   |
-| False | True  | True  | False |      True     |       |                   |
-| False | True  | True  | True  |      True     |       |                   |
-| True  | False | False | False |
-| True  | False | False | True  |
-| True  | False | True  | False |
-| True  | False | True  | True  |
-| True  | True  | False | False |
-| True  | True  | False | True  |
-| True  | True  | True  | False |
-| True  | True  | True  | True  |
+|   A   |   B   |   C   |   D   |  B OR NOT C   |   NOT A AND D  | A AND NOT (B OR NOT C) | A AND NOT (B OR NOT C) AND (NOT A AND D) | 
+| ----- | ----- | ----- | ----- | ------------- | -------------- | ---------------------- | -------------------------------------- |
+| False | False | False | False |      False    |      False     | False | False |
+| False | False | False | True  |      False    |      True      | False | False |
+| False | False | True  | False |      True     |      False     | False | False |
+| False | False | True  | True  |      True     |      True      | False | False |
+| False | True  | False | False |      True     |      False     | False | False |
+| False | True  | False | True  |      True     |      True      | False | False |
+| False | True  | True  | False |      True     |      False     | False | False |
+| False | True  | True  | True  |      True     |      True      | False | False |
+| True  | False | False | False |      True     |      False     | False | False |
+| True  | False | False | True  |      True     |      False     | False | False |
+| True  | False | True  | False |      False    |      False     | True  | False |
+| True  | False | True  | True  |      False    |      False     | True  | False |
+| True  | True  | False | False |      True     |      False     | False | False |
+| True  | True  | False | True  |      True     |      False     | False | False |
+| True  | True  | True  | False |      True     |      False     | False | False |
+| True  | True  | True  | True  |      True     |      False     | False | False |
 
 
 ## Question 2
