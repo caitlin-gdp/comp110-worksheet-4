@@ -67,12 +67,17 @@ Please edit this README.md file with your answers to the worksheet questions.
 ## Question 2
 
 ### a
+![LogicGateOne](https://github.com/mcgeecaitlin/comp110-worksheet-4/blob/master/LogicGateOne.JPG)
 
 ### b
+![LogicGateTwo](https://github.com/mcgeecaitlin/comp110-worksheet-4/blob/master/LogicGateTwo.JPG)
 
 ### c
+![LogicGateThree](https://github.com/mcgeecaitlin/comp110-worksheet-4/blob/master/LogicGateThree.JPG)
 
 ### d
+![LogicGateFour](https://github.com/mcgeecaitlin/comp110-worksheet-4/blob/master/LogicGateFour.PNG)
+
 
 ## Question 3
 
