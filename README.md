@@ -113,6 +113,28 @@ Please edit this README.md file with your answers to the worksheet questions.
 | True  | True  |        False      |
 
 ### c
+|   A   |   B   |   C   |   A AND B  |  A AND C  | (A AND B) OR (A AND C) | 
+| ----- | ----- | ----- | ---------- | --------- | ---------------------- |
+| False | False | False |   False    |   False   |          False         |
+| False | False | True  |   False    |   False   |          False         |
+| False | True  | False |   False    |   False   |          False         |
+| False | True  | True  |   False    |   False   |          False         |
+| True  | False | False |   False    |   False   |          False         |
+| True  | False | True  |   False    |   True    |          True          |
+| True  | True  | False |   True     |   False   |          True          |
+| True  | True  | True  |   True     |   True    |          True          |
+
+|   A   |   B   |   C   |   B OR C   |   A AND (B OR C)  |
+| ----- | ----- | ----- | ----------- | ---------------- |
+| False | False | False |     False   |      False       |
+| False | False | True  |     True    |      False       |
+| False | True  | False |     True    |      False       |
+| False | True  | True  |     True    |      False       |
+| True  | False | False |     False   |      False       |
+| True  | False | True  |     True    |      True        |
+| True  | True  | False |     True    |      True        |
+| True  | True  | True  |     True    |      True        |
+
 
 ### d
 |   A   |   B   |   C   |   A OR B   |   A OR C  | (A OR B) AND (A OR C) | 
