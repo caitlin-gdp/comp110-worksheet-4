@@ -89,6 +89,8 @@ Please edit this README.md file with your answers to the worksheet questions.
 | True  | False |   True     |       False     |
 | True  | True  |   True     |       False     |
 
+---
+
 |   A   |   B   |   NOT A AND NOT B  |
 | ----- | ----- | ------------------ |
 | False | False |        True        |
@@ -103,7 +105,9 @@ Please edit this README.md file with your answers to the worksheet questions.
 | False | False |   False    |      True       |
 | False | True  |   False    |      True       |
 | True  | False |   False    |      True       |
-| True  | True  |   True     |      False      |     
+| True  | True  |   True     |      False      |   
+
+---
 
 |   A   |   B   |   NOT A OR NOT B  |
 | ----- | ----- | ----------------- |
@@ -123,6 +127,8 @@ Please edit this README.md file with your answers to the worksheet questions.
 | True  | False | True  |   False    |   True    |          True          |
 | True  | True  | False |   True     |   False   |          True          |
 | True  | True  | True  |   True     |   True    |          True          |
+
+---
 
 |   A   |   B   |   C   |   B OR C   |   A AND (B OR C)  |
 | ----- | ----- | ----- | ----------- | ---------------- |
@@ -148,6 +154,7 @@ Please edit this README.md file with your answers to the worksheet questions.
 | True  | True  | False |   True     |   True    |         True          |
 | True  | True  | True  |   True     |   True    |         True          |
 
+---
 
 |   A   |   B   |   C   |   B AND C   |   A OR (B AND C)  |
 | ----- | ----- | ----- | ----------- | ----------------- |
